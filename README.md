@@ -1,0 +1,1 @@
+run the project to start a simple cors-anywhere to sit between webscraper-react and webscraper-python.
